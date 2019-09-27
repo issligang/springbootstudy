@@ -1,0 +1,5 @@
+
+server:
+  port: 8081  #端口号
+  servlet:
+    context-path: /helloWorld #上下文路径
