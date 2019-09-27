@@ -6,6 +6,7 @@
     <modules>
         <module>HelloWorld</module>
         <module>Properties</module>
+        <module>Monitor</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
