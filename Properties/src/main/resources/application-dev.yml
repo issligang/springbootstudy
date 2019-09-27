@@ -1,0 +1,8 @@
+application:
+  applicationName: dev环境 @artifactId@
+  applicationVersion: dev环境 @version@
+developer:
+  developerName: dev环境 issgang
+  developerWebsite: dev环境 http://issgang.com
+  developerQQ: dev环境 109****877
+  developerMobilePhone: dev环境 189****7911

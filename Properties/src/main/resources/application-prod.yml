@@ -1,0 +1,8 @@
+application:
+  applicationName: prod环境 @artifactId@
+  applicationVersion: prod环境 @version@
+developer:
+  developerName: prod环境 issgang
+  developerWebsite: prod环境 http://issgang.com
+  developerQQ: prod环境 109****877
+  developerMobilePhone: prod环境 189****7911
